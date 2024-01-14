@@ -1,4 +1,5 @@
 /dataset   
 /french-discussion-reddit
+/train-balanced-sarcasm.csv
 *.xml
 *.gz
