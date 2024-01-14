@@ -1,5 +1,5 @@
 /dataset   
 /french-discussion-reddit
-/train-balanced-sarcasm.csv
+/train-balanced-sarcasm
 *.xml
 *.gz
