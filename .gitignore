@@ -1,5 +1,8 @@
 /dataset   
 /french-discussion-reddit
 /train-balanced-sarcasm
+/parameters
 *.xml
 *.gz
+*.txt
+*.npy
